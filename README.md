@@ -3,8 +3,8 @@ udacity
 
 
 * Lesson 1: Convolutional Neural Networks
-* Lesson 2: GPU Workspaces
-* Lesson 3: Cloud Computing
+* Lesson 2: GPU Workspaces (skip)
+* Lesson 3: Cloud Computing (skip)
 * Lesson 4: Transfer Learning
 * Lesson 5: Weight Initialization
 * Lesson 6: Autoencoders
@@ -59,3 +59,53 @@ udacity
 | 44 | Visualizing CNNs (Part 2) | 1-44-viz-cnn-2.md |
 | 45 | Summary of CNNs | https://youtu.be/Te9QCvhx6N8 |
 | 46 | Introduction to GPU Workspaces | 1-46-gpu-workspaces.md |
+
+
+
+## Lesson 4: Transfer Learning
+
+| Number      | Title | Resource |
+| ----------- | ----------- | ----------- |
+| 1 | Transfer Learning | https://youtu.be/yfPEROi3SPU |
+| 2 | Useful Layers | https://youtu.be/kn4BN7z3UGQ |
+| 3 | Fine-Tuning | https://youtu.be/XOyb315xYbw |
+| 4 | VGG Model & Classifier | https://youtu.be/fOiQFXItYe4 |
+| 5 | Pre-Notebook: Transfer Learning | 4-5-prenotebook.md |
+| 6 | Notebook: Transfer Learning | [github](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/transfer-learning) |
+| 7 | Freezing Weights & Last Layer | https://youtu.be/ssNIX_2QfMQ |
+| 8 | Training a Classifier | https://youtu.be/4LniBMFI53g |
+
+
+## Lesson 5: Weight Initialization
+
+| Number      | Title | Resource |
+| ----------- | ----------- | ----------- |
+| 1 | Weight Initialization | https://youtu.be/Ehc60si91Wg |
+| 2 | Constant Weights | https://youtu.be/zR4fECgeZ7Y |
+| 3 | Random Uniform | https://youtu.be/FacdIomrLIw |
+| 4 | General Rule | https://youtu.be/YKe9iOUMmsI |
+| 5 | Normal Distribution | https://youtu.be/xm43q4qD2tI |
+| 6 | Pre-Notebook: Weight Initialization, Normal Distribution | 4-5-prenotebook.md |
+| 7 | Notebook: Weight Initialization, Normal Distribution | [github](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/weight-initialization) |
+| 8 | Solution and Default Initialization | https://youtu.be/xIn8XLbR1LM |
+
+## Lesson 6: Autoencoders
+
+| Number      | Title | Resource |
+| ----------- | ----------- | ----------- |
+| 1 | Autoencoders | https://youtu.be/a5zHMWOq0fc |
+| 2 | A Linear Autoencoder | https://youtu.be/KbmfyDNxL5U |
+| 3 | Pre-Notebook: Linear Autoencoder | 6-3-prenotebook.md |
+| 4 | Notebook: Linear Autoencoder | [github](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/autoencoder/linear-autoencoder) |
+| 5 | Defining & Training an Autoencoder | https://youtu.be/OWrlQUSGqyo |
+| 6 | A Simple Solution | https://youtu.be/Jh3mbomqpw8 |
+| 7 | Learnable Upsampling | https://youtu.be/KjztLwPksj8 |
+| 8 | Transpose Convolutions | https://youtu.be/hnnLAC1Q0zg |
+| 9 | Convolutional Autoencoder | https://youtu.be/QCA8QeZeDW8 |
+| 10 | Pre-Notebook: Convolutional Autoencoder | 6-10-prenotebook.md |
+| 11 | Notebook: Convolutional Autoencoder | [github](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/autoencoder/convolutional-autoencoder) |
+| 12 | Convolutional Solution | https://youtu.be/2_Yw9LLomCo |
+| 13 | Upsampling & Denoising | https://youtu.be/XX63da4EPN0 |
+| 14 | De-noising | https://youtu.be/RIfEhKev24I |
+| 15 | Pre-Notebook: De-noising Autoencoder | 6-15-prenotebook.md |
+| 16 | Notebook: De-noising Autoencoder | [github(https://github.com/udacity/deep-learning-v2-pytorch/tree/master/autoencoder/denoising-autoencoder)] |
